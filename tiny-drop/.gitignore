@@ -1,0 +1,11 @@
+*.db
+
+storage/
+tmp/
+
+# bin/
+
+server.crt
+server.key
+
+go.sum
